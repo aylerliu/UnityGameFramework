@@ -1,0 +1,3 @@
+[submodule "Libraries/GameFramework"]
+	path = Libraries/GameFramework
+	url = https://github.com/aylerliu/GameFramework.git
